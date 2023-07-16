@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Xcode, Swift, Objective-C**
 
-- 👨‍💻 All of my projects are available at [Click]([https://www.example.com](https://github.com/AndriyPetrovic?tab=repositories))
+- 👨‍💻 All of my projects are available at [Click](https://github.com/AndriyPetrovic?tab=repositories)
 
 - 💬 Ask me about **Qt :)**
 
