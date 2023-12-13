@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
 <h3 align="center">Apple developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **XCode, Swift, Objective-C**
+- 🌱 I’m currently learning **XCode, Swift**
 
 - 👨‍💻 All of my projects are available at [Click](https://github.com/AndriyPetrovic?tab=repositories)
 
