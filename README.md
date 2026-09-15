@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://github.com/AndriiBash/AndriiBash/blob/main/name.gif" alt="" height="440" />
 
 # 👋 Hallo! Ich heiße Andrej
 
